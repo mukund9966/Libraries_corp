@@ -1,0 +1,11 @@
+C:\Users\user\Documents\training\Day-1\FinalAreaFInal\FinalAreaFInal\bin\Debug\FinalAreaFInal.exe.config
+C:\Users\user\Documents\training\Day-1\FinalAreaFInal\FinalAreaFInal\bin\Debug\FinalAreaFInal.exe
+C:\Users\user\Documents\training\Day-1\FinalAreaFInal\FinalAreaFInal\bin\Debug\FinalAreaFInal.pdb
+C:\Users\user\Documents\training\Day-1\FinalAreaFInal\FinalAreaFInal\bin\Debug\Shapes.dll
+C:\Users\user\Documents\training\Day-1\FinalAreaFInal\FinalAreaFInal\bin\Debug\Shapes.pdb
+C:\Users\user\Documents\training\Day-1\FinalAreaFInal\FinalAreaFInal\obj\Debug\FinalAreaFInal.csproj.AssemblyReference.cache
+C:\Users\user\Documents\training\Day-1\FinalAreaFInal\FinalAreaFInal\obj\Debug\FinalAreaFInal.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\training\Day-1\FinalAreaFInal\FinalAreaFInal\obj\Debug\FinalAreaFInal.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\training\Day-1\FinalAreaFInal\FinalAreaFInal\obj\Debug\FinalAreaFInal.csproj.CopyComplete
+C:\Users\user\Documents\training\Day-1\FinalAreaFInal\FinalAreaFInal\obj\Debug\FinalAreaFInal.exe
+C:\Users\user\Documents\training\Day-1\FinalAreaFInal\FinalAreaFInal\obj\Debug\FinalAreaFInal.pdb
